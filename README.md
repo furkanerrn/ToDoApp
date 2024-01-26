@@ -1,7 +1,7 @@
 # TODO APP
 ## Özet 
 ###### Swift programlama dilinde Ekleme,Silme , Güncelleme ve arama özelliklerinin olduğu bir ToDo listesi yaptım
-## Kullanılan Tekonolojiler
+## Kullanılan Teknolojiler
 - RxSwift
 - MVVM
 - SQLITE
